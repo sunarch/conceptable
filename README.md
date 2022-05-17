@@ -3,6 +3,14 @@ Conceptable
 
 personal note and data management
 
+## Installation
+
+The package is on PyPI: [conceptable](https://pypi.org/project/conceptable/)
+
+```
+pip install conceptable
+```
+
 ### License
 
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
